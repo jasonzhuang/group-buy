@@ -1,0 +1,78 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <!-- build:css(.tmp) styles/main.css -->
+        <link rel="stylesheet" href="styles/bootstrap.css">
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+</head>
+  <body ng-app="app">
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+      <script src="bower_components/es5-shim/es5-shim.js"></script>
+      <script src="bower_components/json3/lib/json3.min.js"></script>
+    <![endif]-->
+    <div class="container">
+        <!-- Add your site or application content here -->
+        <div ng-controller="MainCtrl">
+            <div class="row">
+                <div class="col-md-4">
+                    <span>城市: </span>
+                    <select ng-model="city" ng-options="city for city in cities">
+                        <option value="">All</option>
+                    </select>
+                </div>
+                <div class="col-md-8">
+                    <div ng-show="!isLogin"><button class="btn-primary" ng-click="login()">Sign in</button> </div>
+                    <div ng-show="isLogin">Welcome {{userName}}</div>
+                </div>
+            </div>
+
+            <div class="navbar navbar-default">
+                <div class="container">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#/">首页</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <li ng-class="{active: routeIs('/deals')}"><a href="#/deals">Deals</a></li>
+                            <li ng-class="{active: routeIs('/coupons')}"><a href="#/coupons">Coupons</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!--end navbar-->
+
+         </div> <!--end main-->
+       <ng-view></ng-view>
+    </div><!--end container-->
+
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+    <script src="libs/sha.js"></script>
+        <!-- build:js scripts/plugins.js -->
+
+        <!-- endbuild -->
+
+        <!-- build:js({.tmp,app}) scripts/scripts.js -->
+        <script src="scripts/app.js"></script>
+        <script src="scripts/services/remoteService.js"></script>
+        <script src="scripts/controllers/main.js"></script>
+        <script src="scripts/controllers/dealCtrl.js"></script>
+        <script src="scripts/controllers/couponCtrl.js"></script>
+        <script src="scripts/directives/dealOver.js"></script>
+        <!-- endbuild -->
+</body>
+</html>

@@ -1,0 +1,1581 @@
+{"total_count": 35133, "count": 20, "deals": [
+    {
+        "deal_id": "3-5035016",
+        "title": "食之秘电子代金券1张",
+        "description": "食之秘 仅售82元 价值100元电子代金券1张 3城30店通用 食之秘 语 你知我知 心之所在 你侬我侬",
+        "city": "杭州",
+        "list_price": 100.0,
+        "current_price": 82.0,
+        "regions": ["上城区", "江干区"],
+        "categories": ["西餐", "面包甜点", "代金券"],
+        "purchase_count": 381,
+        "purchase_deadline": "2013-12-17",
+        "publish_date": "2013-09-17",
+        "distance": 0,
+        "image_url": "http://t3.dpfile.com/pc/mc/544c09c552e69d574e9db7052dfb08d8(450x1024)/thumb.jpg",
+        "s_image_url": "http://t1.dpfile.com/pc/mc/544c09c552e69d574e9db7052dfb08d8(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/EwrJsfdjaY",
+        "deal_h5_url": "http://dpurl.cn/p/gY-s63a4BM",
+        "businesses": [
+            {
+                "name": "食之秘(湖滨银泰店)",
+                "id": 9538958,
+                "city": "杭州",
+                "latitude": 31.24584,
+                "longitude": 121.38302,
+                "url": "http://dpurl.cn/p/7GmNoR0j1h",
+                "h5_url": "http://dpurl.cn/p/ahSq0+x1eM"
+            },
+            {
+                "name": "食之秘（万象城店）",
+                "id": 13841770,
+                "city": "杭州",
+                "latitude": 30.25254,
+                "longitude": 120.16418,
+                "url": "http://dpurl.cn/p/0q3SsDerEs",
+                "h5_url": "http://dpurl.cn/p/hu0jJKbKnn"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-219174",
+        "title": "川味观3-4人套餐",
+        "description": "川味观 庆祝川味观·火锅制造天目山路店盛大开业 仅售99元 价值223元3 4人套餐 12店通用 蓉城浓郁碰撞江南柔情 令人齿颊留香 川味观·火锅制造带您迈入无烟火锅的新时代",
+        "city": "杭州",
+        "list_price": 223.0,
+        "current_price": 99.0,
+        "regions": ["上城区", "下城区", "拱墅区", "江干区", "西湖区"],
+        "categories": ["川菜"],
+        "purchase_count": 8625,
+        "purchase_deadline": "2013-09-28",
+        "publish_date": "2013-06-29",
+        "distance": 0,
+        "image_url": "http://t3.dpfile.com/tuan/20130627/260048_130168255010000000.jpg",
+        "s_image_url": "http://t2.dpfile.com/tuan/20130627/260048_130168255010000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/aq4bosriGX",
+        "deal_h5_url": "http://dpurl.cn/p/ANLT12MsPh",
+        "businesses": [
+            {
+                "name": "川味观(浣纱店)",
+                "id": 536529,
+                "city": "杭州",
+                "latitude": 30.251455,
+                "longitude": 120.16669,
+                "url": "http://dpurl.cn/p/M-N6ktpvNB",
+                "h5_url": "http://dpurl.cn/p/OK6I2Ezr2a"
+            },
+            {
+                "name": "川味观(庆春店)",
+                "id": 536530,
+                "city": "杭州",
+                "latitude": 30.257584,
+                "longitude": 120.17054,
+                "url": "http://dpurl.cn/p/demYFa5gDe",
+                "h5_url": "http://dpurl.cn/p/V+2zMHr27S"
+            },
+            {
+                "name": "川味观火锅制造(凤起一店)",
+                "id": 536531,
+                "city": "杭州",
+                "latitude": 30.26491,
+                "longitude": 120.17879,
+                "url": "http://dpurl.cn/p/kQvlSpGEZP",
+                "h5_url": "http://dpurl.cn/p/dtDegw-0jT"
+            },
+            {
+                "name": "川味观(莫干山店)",
+                "id": 536695,
+                "city": "杭州",
+                "latitude": 30.28361,
+                "longitude": 120.14857,
+                "url": "http://dpurl.cn/p/QyhTV8y1Km",
+                "h5_url": "http://dpurl.cn/p/KjvoApVEEV"
+            },
+            {
+                "name": "川味观(中山北路店)",
+                "id": 537455,
+                "city": "杭州",
+                "latitude": 30.27655,
+                "longitude": 120.16608,
+                "url": "http://dpurl.cn/p/EFmoRxj1nC",
+                "h5_url": "http://dpurl.cn/p/shlGrKrupb"
+            },
+            {
+                "name": "川味观(景芳店)",
+                "id": 2061226,
+                "city": "杭州",
+                "latitude": 30.27066,
+                "longitude": 120.20725,
+                "url": "http://dpurl.cn/p/6BBiX515xJ",
+                "h5_url": "http://dpurl.cn/p/JmXhSrfH-X"
+            },
+            {
+                "name": "川味观(古水街)",
+                "id": 3642601,
+                "city": "杭州",
+                "latitude": 30.29761,
+                "longitude": 120.15408,
+                "url": "http://dpurl.cn/p/jTBvqDLIpK",
+                "h5_url": "http://dpurl.cn/p/+LyQXRvzRy"
+            },
+            {
+                "name": "川味观(文三西路店)",
+                "id": 3696625,
+                "city": "杭州",
+                "latitude": 30.27656,
+                "longitude": 120.10664,
+                "url": "http://dpurl.cn/p/BdskwjGDDj",
+                "h5_url": "http://dpurl.cn/p/aLbr3bhVj2"
+            },
+            {
+                "name": "川味观(万象城店)",
+                "id": 4065067,
+                "city": "杭州",
+                "latitude": 30.251696,
+                "longitude": 120.215546,
+                "url": "http://dpurl.cn/p/0455aJVi4Y",
+                "h5_url": "http://dpurl.cn/p/nkITdoFUd7"
+            },
+            {
+                "name": "川味观(天城路店)",
+                "id": 4665208,
+                "city": "杭州",
+                "latitude": 30.287033,
+                "longitude": 120.20161,
+                "url": "http://dpurl.cn/p/noN7O7oYr7",
+                "h5_url": "http://dpurl.cn/p/IihI4Tg6Jj"
+            },
+            {
+                "name": "川味观(北景园店)",
+                "id": 5423694,
+                "city": "杭州",
+                "latitude": 30.337374,
+                "longitude": 120.1817,
+                "url": "http://dpurl.cn/p/-8lH1kiP1T",
+                "h5_url": "http://dpurl.cn/p/v-gJz4seji"
+            },
+            {
+                "name": "川味观火锅制造(天目山路店)",
+                "id": 11561685,
+                "city": "杭州",
+                "latitude": 30.27165,
+                "longitude": 120.13784,
+                "url": "http://dpurl.cn/p/7i3tD0C6+4",
+                "h5_url": "http://dpurl.cn/p/FU85CmzoAB"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-240285",
+        "title": "一席地鸡窝3-4人套餐",
+        "description": "一席地鸡窝 仅售89元 价值144元3 4人套餐 5店通用 一席温馨鸡汤 已经煲了十余年 浓浓鸡汤 美味鲜香 等你来哦",
+        "city": "杭州",
+        "list_price": 144.0,
+        "current_price": 89.0,
+        "regions": ["下城区", "西湖区", "滨江区"],
+        "categories": ["火锅"],
+        "purchase_count": 4761,
+        "purchase_deadline": "2013-11-17",
+        "publish_date": "2013-07-19",
+        "distance": 0,
+        "image_url": "http://t2.dpfile.com/tuan/20130718/282319_130186360200000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130718/282319_130186360200000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/Sg24H3PFb9",
+        "deal_h5_url": "http://dpurl.cn/p/h+JyJph2rj",
+        "businesses": [
+            {
+                "name": "一席地鸡窝(文二店)",
+                "id": 2248456,
+                "city": "杭州",
+                "latitude": 30.282799,
+                "longitude": 120.12487,
+                "url": "http://dpurl.cn/p/Bv-U-3gF1d",
+                "h5_url": "http://dpurl.cn/p/JNKzsyTxhc"
+            },
+            {
+                "name": "一席地鸡窝(莲花街店)",
+                "id": 5444209,
+                "city": "杭州",
+                "latitude": 30.275763,
+                "longitude": 120.09744,
+                "url": "http://dpurl.cn/p/OZljO2KT9-",
+                "h5_url": "http://dpurl.cn/p/uRj2d5r4ZW"
+            },
+            {
+                "name": "一席地鸡窝(江南大道店)",
+                "id": 5677714,
+                "city": "杭州",
+                "latitude": 30.18574,
+                "longitude": 120.16206,
+                "url": "http://dpurl.cn/p/qoS3b2jcN7",
+                "h5_url": "http://dpurl.cn/p/787qg6e-i3"
+            },
+            {
+                "name": "一席地鸡窝(和平店)",
+                "id": 5730836,
+                "city": "杭州",
+                "latitude": 30.290117,
+                "longitude": 120.17671,
+                "url": "http://dpurl.cn/p/8QUMCcLZKh",
+                "h5_url": "http://dpurl.cn/p/+d8z9C+6O8"
+            },
+            {
+                "name": "一席地鸡窝(湖滨店)",
+                "id": 8998374,
+                "city": "杭州",
+                "latitude": 30.257923,
+                "longitude": 120.15993,
+                "url": "http://dpurl.cn/p/2-pn4DbUIU",
+                "h5_url": "http://dpurl.cn/p/4DqdpzOlPS"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-171877",
+        "title": "川味观代金券1张",
+        "description": "川味观 仅售80元 价值100元代金券1张 12店通用 无需预约 川菜火锅连锁加盟 改良川菜别具风味 令人齿颊留香",
+        "city": "杭州",
+        "list_price": 100.0,
+        "current_price": 80.0,
+        "regions": ["上城区", "下城区", "拱墅区", "江干区", "西湖区"],
+        "categories": ["火锅", "代金券"],
+        "purchase_count": 20045,
+        "purchase_deadline": "2013-11-07",
+        "publish_date": "2013-05-08",
+        "distance": 0,
+        "image_url": "http://t3.dpfile.com/tuan/20130506/209734_130123293940000000.jpg",
+        "s_image_url": "http://t1.dpfile.com/tuan/20130506/209734_130123293940000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/qdG5OBfUpF",
+        "deal_h5_url": "http://dpurl.cn/p/+58Clbqsro",
+        "businesses": [
+            {
+                "name": "川味观(浣纱店)",
+                "id": 536529,
+                "city": "杭州",
+                "latitude": 30.251455,
+                "longitude": 120.16669,
+                "url": "http://dpurl.cn/p/M-N6ktpvNB",
+                "h5_url": "http://dpurl.cn/p/OK6I2Ezr2a"
+            },
+            {
+                "name": "川味观(庆春店)",
+                "id": 536530,
+                "city": "杭州",
+                "latitude": 30.257584,
+                "longitude": 120.17054,
+                "url": "http://dpurl.cn/p/demYFa5gDe",
+                "h5_url": "http://dpurl.cn/p/V+2zMHr27S"
+            },
+            {
+                "name": "川味观火锅制造(凤起一店)",
+                "id": 536531,
+                "city": "杭州",
+                "latitude": 30.26491,
+                "longitude": 120.17879,
+                "url": "http://dpurl.cn/p/kQvlSpGEZP",
+                "h5_url": "http://dpurl.cn/p/dtDegw-0jT"
+            },
+            {
+                "name": "川味观(莫干山店)",
+                "id": 536695,
+                "city": "杭州",
+                "latitude": 30.28361,
+                "longitude": 120.14857,
+                "url": "http://dpurl.cn/p/QyhTV8y1Km",
+                "h5_url": "http://dpurl.cn/p/KjvoApVEEV"
+            },
+            {
+                "name": "川味观(中山北路店)",
+                "id": 537455,
+                "city": "杭州",
+                "latitude": 30.27655,
+                "longitude": 120.16608,
+                "url": "http://dpurl.cn/p/EFmoRxj1nC",
+                "h5_url": "http://dpurl.cn/p/shlGrKrupb"
+            },
+            {
+                "name": "川味观(景芳店)",
+                "id": 2061226,
+                "city": "杭州",
+                "latitude": 30.27066,
+                "longitude": 120.20725,
+                "url": "http://dpurl.cn/p/6BBiX515xJ",
+                "h5_url": "http://dpurl.cn/p/JmXhSrfH-X"
+            },
+            {
+                "name": "川味观(古水街)",
+                "id": 3642601,
+                "city": "杭州",
+                "latitude": 30.29761,
+                "longitude": 120.15408,
+                "url": "http://dpurl.cn/p/jTBvqDLIpK",
+                "h5_url": "http://dpurl.cn/p/+LyQXRvzRy"
+            },
+            {
+                "name": "川味观(文三西路店)",
+                "id": 3696625,
+                "city": "杭州",
+                "latitude": 30.27656,
+                "longitude": 120.10664,
+                "url": "http://dpurl.cn/p/BdskwjGDDj",
+                "h5_url": "http://dpurl.cn/p/aLbr3bhVj2"
+            },
+            {
+                "name": "川味观(万象城店)",
+                "id": 4065067,
+                "city": "杭州",
+                "latitude": 30.251696,
+                "longitude": 120.215546,
+                "url": "http://dpurl.cn/p/0455aJVi4Y",
+                "h5_url": "http://dpurl.cn/p/nkITdoFUd7"
+            },
+            {
+                "name": "川味观(天城路店)",
+                "id": 4665208,
+                "city": "杭州",
+                "latitude": 30.287033,
+                "longitude": 120.20161,
+                "url": "http://dpurl.cn/p/noN7O7oYr7",
+                "h5_url": "http://dpurl.cn/p/IihI4Tg6Jj"
+            },
+            {
+                "name": "川味观(北景园店)",
+                "id": 5423694,
+                "city": "杭州",
+                "latitude": 30.337374,
+                "longitude": 120.1817,
+                "url": "http://dpurl.cn/p/-8lH1kiP1T",
+                "h5_url": "http://dpurl.cn/p/v-gJz4seji"
+            },
+            {
+                "name": "川味观火锅制造(天目山路店)",
+                "id": 11561685,
+                "city": "杭州",
+                "latitude": 30.27165,
+                "longitude": 120.13784,
+                "url": "http://dpurl.cn/p/7i3tD0C6+4",
+                "h5_url": "http://dpurl.cn/p/FU85CmzoAB"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-291008",
+        "title": "汝拉小镇代金券1张",
+        "description": "汝拉小镇 仅售75元 价值100元代金券1张 3店可选 无需预约 可累计使用 提供免费停车位 东南亚特色菜系 舌尖异域体验 另有2款不同售价代金券可选",
+        "city": "杭州",
+        "list_price": 100.0,
+        "current_price": 75.0,
+        "regions": ["西湖区"],
+        "categories": ["代金券", "创意菜"],
+        "purchase_count": 4626,
+        "purchase_deadline": "2013-11-17",
+        "publish_date": "2013-08-17",
+        "distance": 0,
+        "image_url": "http://t3.dpfile.com/tuan/20130816/319881_130211478220000000.jpg",
+        "s_image_url": "http://t2.dpfile.com/tuan/20130816/319881_130211478220000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/urmzSAvK-T",
+        "deal_h5_url": "http://dpurl.cn/p/fm2LcmNMSZ",
+        "businesses": [
+            {
+                "name": "汝拉小镇(龙井路店)",
+                "id": 2235661,
+                "city": "杭州",
+                "latitude": 30.230236,
+                "longitude": 120.117775,
+                "url": "http://dpurl.cn/p/FoIYba9-MC",
+                "h5_url": "http://dpurl.cn/p/jEPin9-+Kq"
+            },
+            {
+                "name": "汝拉小镇(西溪店)",
+                "id": 5290804,
+                "city": "杭州",
+                "latitude": 30.279373,
+                "longitude": 120.071335,
+                "url": "http://dpurl.cn/p/ITZmW9FpHX",
+                "h5_url": "http://dpurl.cn/p/lFf1jCovbZ"
+            },
+            {
+                "name": "汝拉小镇(西溪天堂店)",
+                "id": 8910751,
+                "city": "杭州",
+                "latitude": 30.26567,
+                "longitude": 120.08971,
+                "url": "http://dpurl.cn/p/Jj7BAiKiEF",
+                "h5_url": "http://dpurl.cn/p/NKWqo2X3NY"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-285523",
+        "title": "一席地鸡窝滋补榴莲鸡3-4人套餐",
+        "description": "一席地鸡窝 仅售110元 价值186元滋补榴莲鸡3 4人套餐 一席地隆重推出 食补系列之 榴莲鸡 只为煲出一锅好汤 为你我他的健康",
+        "city": "杭州",
+        "list_price": 186.0,
+        "current_price": 110.0,
+        "regions": ["上城区", "下城区", "拱墅区", "西湖区", "滨江区", "余杭区"],
+        "categories": ["火锅"],
+        "purchase_count": 2093,
+        "purchase_deadline": "2013-11-14",
+        "publish_date": "2013-08-15",
+        "distance": 0,
+        "image_url": "http://t1.dpfile.com/tuan/20130814/313245_130209682120000000.jpg",
+        "s_image_url": "http://t2.dpfile.com/tuan/20130814/313245_130209682120000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/QQznqSkyAW",
+        "deal_h5_url": "http://dpurl.cn/p/4ILDJeearO",
+        "businesses": [
+            {
+                "name": "一席地鸡窝(建国北路店)",
+                "id": 537130,
+                "city": "杭州",
+                "latitude": 30.26127,
+                "longitude": 120.18105,
+                "url": "http://dpurl.cn/p/qxlrXTqeQb",
+                "h5_url": "http://dpurl.cn/p/zklKs+a+ok"
+            },
+            {
+                "name": "一席地鸡窝(大关店)",
+                "id": 537132,
+                "city": "杭州",
+                "latitude": 30.302795,
+                "longitude": 120.15993,
+                "url": "http://dpurl.cn/p/sT60Z8shCT",
+                "h5_url": "http://dpurl.cn/p/iiq1cdacGV"
+            },
+            {
+                "name": "一席地鸡窝(金田店)",
+                "id": 537133,
+                "city": "杭州",
+                "latitude": 30.278456,
+                "longitude": 120.1,
+                "url": "http://dpurl.cn/p/+5+kOZoh8x",
+                "h5_url": "http://dpurl.cn/p/ZobIi-2jBe"
+            },
+            {
+                "name": "一席地鸡窝(黄龙店)",
+                "id": 537773,
+                "city": "杭州",
+                "latitude": 30.266079,
+                "longitude": 120.133675,
+                "url": "http://dpurl.cn/p/V9axjJAiLb",
+                "h5_url": "http://dpurl.cn/p/AZ9oQw3Jqc"
+            },
+            {
+                "name": "一席地鸡窝(邮电路店)",
+                "id": 1939864,
+                "city": "杭州",
+                "latitude": 30.2516,
+                "longitude": 120.16699,
+                "url": "http://dpurl.cn/p/jDGr+jL771",
+                "h5_url": "http://dpurl.cn/p/hCol8Sjrgw"
+            },
+            {
+                "name": "一席地鸡窝(文二店)",
+                "id": 2248456,
+                "city": "杭州",
+                "latitude": 30.282799,
+                "longitude": 120.12487,
+                "url": "http://dpurl.cn/p/Bv-U-3gF1d",
+                "h5_url": "http://dpurl.cn/p/JNKzsyTxhc"
+            },
+            {
+                "name": "一席地鸡窝(河东路店)",
+                "id": 2684911,
+                "city": "杭州",
+                "latitude": 30.282745,
+                "longitude": 120.16451,
+                "url": "http://dpurl.cn/p/pVhQBJqDFw",
+                "h5_url": "http://dpurl.cn/p/RL2UgORMXr"
+            },
+            {
+                "name": "一席地鸡窝(北景园店)",
+                "id": 3452491,
+                "city": "杭州",
+                "latitude": 30.339895,
+                "longitude": 120.18598,
+                "url": "http://dpurl.cn/p/NHl1KwN88C",
+                "h5_url": "http://dpurl.cn/p/nHD4Wc-MRy"
+            },
+            {
+                "name": "一席地鸡窝(翠苑店)",
+                "id": 3477337,
+                "city": "杭州",
+                "latitude": 30.286577,
+                "longitude": 120.123856,
+                "url": "http://dpurl.cn/p/sZckuwYDvx",
+                "h5_url": "http://dpurl.cn/p/QU-DojArsM"
+            },
+            {
+                "name": "一席地鸡窝(印象城店)",
+                "id": 3701593,
+                "city": "杭州",
+                "latitude": 30.295807,
+                "longitude": 120.0984,
+                "url": "http://dpurl.cn/p/A23NJOlKxu",
+                "h5_url": "http://dpurl.cn/p/7xJSGCVVl3"
+            },
+            {
+                "name": "一席地鸡窝(三墩店)",
+                "id": 5436031,
+                "city": "杭州",
+                "latitude": 30.327232,
+                "longitude": 120.08091,
+                "url": "http://dpurl.cn/p/lDjW53Ncie",
+                "h5_url": "http://dpurl.cn/p/gUcs+EXiC8"
+            },
+            {
+                "name": "一席地鸡窝(莲花街店)",
+                "id": 5444209,
+                "city": "杭州",
+                "latitude": 30.275763,
+                "longitude": 120.09744,
+                "url": "http://dpurl.cn/p/OZljO2KT9-",
+                "h5_url": "http://dpurl.cn/p/uRj2d5r4ZW"
+            },
+            {
+                "name": "一席地鸡窝(江南大道店)",
+                "id": 5677714,
+                "city": "杭州",
+                "latitude": 30.18574,
+                "longitude": 120.16206,
+                "url": "http://dpurl.cn/p/qoS3b2jcN7",
+                "h5_url": "http://dpurl.cn/p/787qg6e-i3"
+            },
+            {
+                "name": "一席地鸡窝(和平店)",
+                "id": 5730836,
+                "city": "杭州",
+                "latitude": 30.290117,
+                "longitude": 120.17671,
+                "url": "http://dpurl.cn/p/8QUMCcLZKh",
+                "h5_url": "http://dpurl.cn/p/+d8z9C+6O8"
+            },
+            {
+                "name": "一席地鸡窝(湖滨店)",
+                "id": 8998374,
+                "city": "杭州",
+                "latitude": 30.257923,
+                "longitude": 120.15993,
+                "url": "http://dpurl.cn/p/2-pn4DbUIU",
+                "h5_url": "http://dpurl.cn/p/4DqdpzOlPS"
+            },
+            {
+                "name": "一席地鸡窝(西溪印象城店)",
+                "id": 8998399,
+                "city": "杭州",
+                "latitude": 30.24783,
+                "longitude": 120.05037,
+                "url": "http://dpurl.cn/p/FEy9KeBZZR",
+                "h5_url": "http://dpurl.cn/p/sLryNvIL45"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-5008621",
+        "title": "金橘餐厅代金券1张",
+        "description": "金橘餐厅 仅售40元 价值50元代金券1张 全门店携手同庆金橘餐厅城西银泰店9月20日盛大开业 精致细腻格调 让你眼前焕然一新",
+        "city": "杭州",
+        "list_price": 50.0,
+        "current_price": 40.0,
+        "regions": ["上城区", "江干区", "西湖区"],
+        "categories": ["代金券", "创意菜", "本帮江浙菜"],
+        "purchase_count": 2796,
+        "purchase_deadline": "2013-12-29",
+        "publish_date": "2013-09-03",
+        "distance": 0,
+        "image_url": "http://t2.dpfile.com/pc/mc/3b86e94c3d32c62ad918107d76c0aa76(450x1024)/thumb.jpg",
+        "s_image_url": "http://t3.dpfile.com/pc/mc/3b86e94c3d32c62ad918107d76c0aa76(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/Zpek9Wy7Vh",
+        "deal_h5_url": "http://dpurl.cn/p/Qb-GHSuRWZ",
+        "businesses": [
+            {
+                "name": "金橘餐厅(杭大店)",
+                "id": 536749,
+                "city": "杭州",
+                "latitude": 30.270441,
+                "longitude": 120.14121,
+                "url": "http://dpurl.cn/p/UZAHVTlSce",
+                "h5_url": "http://dpurl.cn/p/sCeJ5ngHb7"
+            },
+            {
+                "name": "金橘餐厅(西湖店)",
+                "id": 2427490,
+                "city": "杭州",
+                "latitude": 30.25198,
+                "longitude": 120.16351,
+                "url": "http://dpurl.cn/p/2pTRB7637S",
+                "h5_url": "http://dpurl.cn/p/6CqyedR-nf"
+            },
+            {
+                "name": "金橘餐厅(银泰庆春店)",
+                "id": 8922604,
+                "city": "杭州",
+                "latitude": 30.26026,
+                "longitude": 120.20498,
+                "url": "http://dpurl.cn/p/aQ9034+9jv",
+                "h5_url": "http://dpurl.cn/p/+H+o4lQ6w5"
+            },
+            {
+                "name": "金橘餐厅(城西银泰店)",
+                "id": 13852843,
+                "city": "杭州",
+                "latitude": 30.29928,
+                "longitude": 120.10847,
+                "url": "http://dpurl.cn/p/6PySLC0wTC",
+                "h5_url": "http://dpurl.cn/p/xTWJwt5vdN"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-226700",
+        "title": "香港新记餐厅代金券1张",
+        "description": "香港新记餐厅 仅售38元 价值50元代金券1张 庆祝新店开张 杭州4店携手点评开团酬宾 品味正宗港式美味 享受美好时光",
+        "city": "杭州",
+        "list_price": 50.0,
+        "current_price": 38.0,
+        "regions": ["下城区", "江干区"],
+        "categories": ["粤菜", "茶餐厅", "代金券"],
+        "purchase_count": 9783,
+        "purchase_deadline": "2013-10-03",
+        "publish_date": "2013-07-05",
+        "distance": 0,
+        "image_url": "http://t3.dpfile.com/tuan/20130618/247125_130160489560000000.jpg",
+        "s_image_url": "http://t2.dpfile.com/tuan/20130618/247125_130160489560000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/rpIDOaUakK",
+        "deal_h5_url": "http://dpurl.cn/p/ijTr0VRIfM",
+        "businesses": [
+            {
+                "name": "香港新记车仔面(武林一店)",
+                "id": 3883597,
+                "city": "杭州",
+                "latitude": 30.26161,
+                "longitude": 120.16082,
+                "url": "http://dpurl.cn/p/2O5y092XcL",
+                "h5_url": "http://dpurl.cn/p/q22XWhGEnh"
+            },
+            {
+                "name": "香港新记餐厅(凤起路店)",
+                "id": 5417209,
+                "city": "杭州",
+                "latitude": 30.251293,
+                "longitude": 120.21603,
+                "url": "http://dpurl.cn/p/ODJjRBVjBU",
+                "h5_url": "http://dpurl.cn/p/u+jp8PTr3E"
+            },
+            {
+                "name": "香港新记餐厅(武林二店)",
+                "id": 6664334,
+                "city": "杭州",
+                "latitude": 30.26453,
+                "longitude": 120.17374,
+                "url": "http://dpurl.cn/p/1ZIrP3IePl",
+                "h5_url": "http://dpurl.cn/p/mArRWUiA67"
+            },
+            {
+                "name": "香港新记车仔面(万象城店)",
+                "id": 7996461,
+                "city": "杭州",
+                "latitude": 30.26285,
+                "longitude": 120.1607,
+                "url": "http://dpurl.cn/p/bStAqWiVVZ",
+                "h5_url": "http://dpurl.cn/p/Vf5aTkmRgL"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-302926",
+        "title": "春暖花开自助午餐",
+        "description": "春暖花开 仅售53元 价值59元自助午餐 杭城超人气自助餐厅 快乐聚会 饕餮盛宴 凭学生证过来可享受优惠",
+        "city": "杭州",
+        "list_price": 59.0,
+        "current_price": 53.0,
+        "regions": ["西湖区"],
+        "categories": ["自助餐"],
+        "purchase_count": 3680,
+        "purchase_deadline": "2013-10-30",
+        "publish_date": "2013-08-21",
+        "distance": 0,
+        "image_url": "http://t2.dpfile.com/tuan/20130814/315157_130209697610000000.jpg",
+        "s_image_url": "http://t1.dpfile.com/tuan/20130814/315157_130209697610000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/yKjVRk8SpP",
+        "deal_h5_url": "http://dpurl.cn/p/O8yKZbhIvR",
+        "businesses": [
+            {
+                "name": "春暖花开",
+                "id": 5144193,
+                "city": "杭州",
+                "latitude": 30.27882,
+                "longitude": 120.12489,
+                "url": "http://dpurl.cn/p/bEAwzeDwuH",
+                "h5_url": "http://dpurl.cn/p/0OySSNguqW"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-251335",
+        "title": "丹比艺术蛋糕/克莉丝汀蛋糕2选1",
+        "description": "丹比艺术蛋糕/克莉丝汀 仅售88元 价值138元荷塘夜色蛋糕 杭州绍兴2城通用 甜蜜沁爽 传递幸福滋味 另有相同售价法式水果蛋糕可选",
+        "city": "杭州",
+        "list_price": 138.0,
+        "current_price": 88.0,
+        "regions": ["上城区", "下城区", "拱墅区", "江干区", "西湖区", "滨江区", "近郊", "萧山区", "余杭区"],
+        "categories": ["面包甜点"],
+        "purchase_count": 1626,
+        "purchase_deadline": "2013-09-29",
+        "publish_date": "2013-07-30",
+        "distance": 0,
+        "image_url": "http://t1.dpfile.com/tuan/20130729/292967_130195782840000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130729/292967_130195782840000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/jS5nr9uZfs",
+        "deal_h5_url": "http://dpurl.cn/p/AiQWMGjGZp",
+        "businesses": [
+            {
+                "name": "丹比艺术蛋糕(体育场店)",
+                "id": 536820,
+                "city": "杭州",
+                "latitude": 30.269901,
+                "longitude": 120.16593,
+                "url": "http://dpurl.cn/p/TGF0SiJQnG",
+                "h5_url": "http://dpurl.cn/p/UCHyAh7y8q"
+            },
+            {
+                "name": "丹比艺术蛋糕(教工店)",
+                "id": 537180,
+                "city": "杭州",
+                "latitude": 30.281488,
+                "longitude": 120.13608,
+                "url": "http://dpurl.cn/p/p-4w1yq51I",
+                "h5_url": "http://dpurl.cn/p/xDVrpWiVlA"
+            },
+            {
+                "name": "丹比艺术蛋糕(凤起店)",
+                "id": 537182,
+                "city": "杭州",
+                "latitude": 30.26441,
+                "longitude": 120.18508,
+                "url": "http://dpurl.cn/p/CZyHp3SOSF",
+                "h5_url": "http://dpurl.cn/p/ITswzCmUoB"
+            },
+            {
+                "name": "丹比艺术蛋糕(文新店)",
+                "id": 537183,
+                "city": "杭州",
+                "latitude": 30.281683,
+                "longitude": 120.10364,
+                "url": "http://dpurl.cn/p/zifKrlZ8iX",
+                "h5_url": "http://dpurl.cn/p/10sxMki3Uv"
+            },
+            {
+                "name": "丹比艺术蛋糕(建中店)",
+                "id": 537186,
+                "city": "杭州",
+                "latitude": 30.256903,
+                "longitude": 120.18099,
+                "url": "http://dpurl.cn/p/Q7fPMnjVQn",
+                "h5_url": "http://dpurl.cn/p/Nscu26ul0q"
+            },
+            {
+                "name": "丹比艺术蛋糕(湖墅南路店)",
+                "id": 537187,
+                "city": "杭州",
+                "latitude": 30.288895,
+                "longitude": 120.14996,
+                "url": "http://dpurl.cn/p/e5kFfrjNhH",
+                "h5_url": "http://dpurl.cn/p/1GFdOWLPnC"
+            },
+            {
+                "name": "丹比艺术蛋糕(富春江路店)",
+                "id": 537189,
+                "city": "杭州",
+                "latitude": 30.235376,
+                "longitude": 120.20207,
+                "url": "http://dpurl.cn/p/q8UQ1PA3iV",
+                "h5_url": "http://dpurl.cn/p/7-IvvoAJLF"
+            },
+            {
+                "name": "丹比艺术蛋糕(采荷店)",
+                "id": 537190,
+                "city": "杭州",
+                "latitude": 30.257473,
+                "longitude": 120.19928,
+                "url": "http://dpurl.cn/p/jc7oxNfFUu",
+                "h5_url": "http://dpurl.cn/p/mHynjv8l4A"
+            },
+            {
+                "name": "丹比艺术蛋糕(文苑店)",
+                "id": 537351,
+                "city": "杭州",
+                "latitude": 30.275932,
+                "longitude": 120.10924,
+                "url": "http://dpurl.cn/p/5Yfoda6xpJ",
+                "h5_url": "http://dpurl.cn/p/fgyLDiDuo4"
+            },
+            {
+                "name": "丹比艺术蛋糕(中山店)",
+                "id": 537352,
+                "city": "杭州",
+                "latitude": 30.263016,
+                "longitude": 120.16926,
+                "url": "http://dpurl.cn/p/0mDeVlC+-C",
+                "h5_url": "http://dpurl.cn/p/eMhCPzi6Zq"
+            },
+            {
+                "name": "丹比艺术蛋糕(清泰店)",
+                "id": 537353,
+                "city": "杭州",
+                "latitude": 30.246925,
+                "longitude": 120.177414,
+                "url": "http://dpurl.cn/p/eVHDwo9oSk",
+                "h5_url": "http://dpurl.cn/p/2YciYF+vCi"
+            },
+            {
+                "name": "丹比艺术蛋糕(庆春东路店)",
+                "id": 572720,
+                "city": "杭州",
+                "latitude": 30.25735,
+                "longitude": 120.19473,
+                "url": "http://dpurl.cn/p/yLINpHiTFt",
+                "h5_url": "http://dpurl.cn/p/uouPPOFLah"
+            },
+            {
+                "name": "丹比艺术蛋糕(景芳店)",
+                "id": 1900204,
+                "city": "杭州",
+                "latitude": 30.27058,
+                "longitude": 120.2084,
+                "url": "http://dpurl.cn/p/4xlZa-rw4f",
+                "h5_url": "http://dpurl.cn/p/NnLg9G12sZ"
+            },
+            {
+                "name": "丹比艺术蛋糕(吴山路店)",
+                "id": 2094106,
+                "city": "杭州",
+                "latitude": 30.252151,
+                "longitude": 120.16527,
+                "url": "http://dpurl.cn/p/sO4ssc-JYo",
+                "h5_url": "http://dpurl.cn/p/bK+0oXZTGU"
+            },
+            {
+                "name": "丹比艺术蛋糕(三塘店)",
+                "id": 2094118,
+                "city": "杭州",
+                "latitude": 30.307253,
+                "longitude": 120.168785,
+                "url": "http://dpurl.cn/p/mYDgnnaOCh",
+                "h5_url": "http://dpurl.cn/p/BcZ1ZUPDD9"
+            },
+            {
+                "name": "丹比艺术蛋糕(河坊街店)",
+                "id": 2094124,
+                "city": "杭州",
+                "latitude": 30.239363,
+                "longitude": 120.17656,
+                "url": "http://dpurl.cn/p/auH8RVMpbF",
+                "h5_url": "http://dpurl.cn/p/gnyn52iZJ2"
+            },
+            {
+                "name": "丹比艺术蛋糕(复兴店)",
+                "id": 2094133,
+                "city": "杭州",
+                "latitude": 30.211927,
+                "longitude": 120.1705,
+                "url": "http://dpurl.cn/p/hYAXX4Pl-h",
+                "h5_url": "http://dpurl.cn/p/OPY43K3kU9"
+            },
+            {
+                "name": "丹比艺术蛋糕(朝晖店)",
+                "id": 2094145,
+                "city": "杭州",
+                "latitude": 30.278366,
+                "longitude": 120.17617,
+                "url": "http://dpurl.cn/p/wt+XH-tYvL",
+                "h5_url": "http://dpurl.cn/p/fbAq6nogoH"
+            },
+            {
+                "name": "丹比艺术蛋糕(马市店)",
+                "id": 2094151,
+                "city": "杭州",
+                "latitude": 30.253988,
+                "longitude": 120.17613,
+                "url": "http://dpurl.cn/p/mQLxGZUic4",
+                "h5_url": "http://dpurl.cn/p/uaDGFjlHHq"
+            },
+            {
+                "name": "丹比艺术蛋糕(莫干山店)",
+                "id": 2094160,
+                "city": "杭州",
+                "latitude": 30.289562,
+                "longitude": 120.14448,
+                "url": "http://dpurl.cn/p/e60V0wjanG",
+                "h5_url": "http://dpurl.cn/p/i7vxV2EoQK"
+            },
+            {
+                "name": "丹比艺术蛋糕(温州路店)",
+                "id": 2094178,
+                "city": "杭州",
+                "latitude": 30.321074,
+                "longitude": 120.14496,
+                "url": "http://dpurl.cn/p/2XjdgBCFw0",
+                "h5_url": "http://dpurl.cn/p/VSIFBUIOO9"
+            },
+            {
+                "name": "丹比艺术蛋糕(凤起新华店)",
+                "id": 2094187,
+                "city": "杭州",
+                "latitude": 30.264515,
+                "longitude": 120.17589,
+                "url": "http://dpurl.cn/p/hOLXP5y4x9",
+                "h5_url": "http://dpurl.cn/p/Ntbg6ma0wU"
+            },
+            {
+                "name": "丹比艺术蛋糕(和平小区店)",
+                "id": 2094193,
+                "city": "杭州",
+                "latitude": 30.27831,
+                "longitude": 120.17615,
+                "url": "http://dpurl.cn/p/A4z1zhiARs",
+                "h5_url": "http://dpurl.cn/p/nEUCrS78fR"
+            },
+            {
+                "name": "丹比艺术蛋糕(文晖路店)",
+                "id": 2094202,
+                "city": "杭州",
+                "latitude": 30.281555,
+                "longitude": 120.16581,
+                "url": "http://dpurl.cn/p/c+DMliC98g",
+                "h5_url": "http://dpurl.cn/p/2zb3M+Aybu"
+            },
+            {
+                "name": "丹比艺术蛋糕(登云路店)",
+                "id": 2094205,
+                "city": "杭州",
+                "latitude": 30.308878,
+                "longitude": 120.128,
+                "url": "http://dpurl.cn/p/eIlmEnf7Ke",
+                "h5_url": "http://dpurl.cn/p/BUrOhIfE3+"
+            },
+            {
+                "name": "丹比艺术蛋糕(大关店)",
+                "id": 2094211,
+                "city": "杭州",
+                "latitude": 30.301954,
+                "longitude": 120.15575,
+                "url": "http://dpurl.cn/p/M4clM3NvYn",
+                "h5_url": "http://dpurl.cn/p/zYpTsfW2XB"
+            },
+            {
+                "name": "丹比艺术蛋糕(江汉店)",
+                "id": 2211409,
+                "city": "杭州",
+                "latitude": 30.204107,
+                "longitude": 120.20399,
+                "url": "http://dpurl.cn/p/Uq7tYMQZCF",
+                "h5_url": "http://dpurl.cn/p/fRwUaaEcol"
+            },
+            {
+                "name": "丹比艺术蛋糕(下沙店)",
+                "id": 2949688,
+                "city": "杭州",
+                "latitude": 30.301771,
+                "longitude": 120.34653,
+                "url": "http://dpurl.cn/p/e-rIntuW68",
+                "h5_url": "http://dpurl.cn/p/bWC49zKqel"
+            },
+            {
+                "name": "丹比艺术蛋糕(北景园店)",
+                "id": 3316582,
+                "city": "杭州",
+                "latitude": 30.334398,
+                "longitude": 120.18556,
+                "url": "http://dpurl.cn/p/vRN1ezCWlg",
+                "h5_url": "http://dpurl.cn/p/Hikq7NPDZJ"
+            },
+            {
+                "name": "丹比艺术蛋糕(江汉店)",
+                "id": 3435904,
+                "city": "杭州",
+                "latitude": 30.204107,
+                "longitude": 120.20399,
+                "url": "http://dpurl.cn/p/lvP6Otz4CP",
+                "h5_url": "http://dpurl.cn/p/ZgE8nyCneJ"
+            },
+            {
+                "name": "丹比蛋糕(古墩路店)",
+                "id": 3924955,
+                "city": "杭州",
+                "latitude": 30.188143,
+                "longitude": 120.160286,
+                "url": "http://dpurl.cn/p/MsLQjwG+1V",
+                "h5_url": "http://dpurl.cn/p/Rcj-+aZN2W"
+            },
+            {
+                "name": "丹比蛋糕(秋涛北路店)",
+                "id": 4127518,
+                "city": "杭州",
+                "latitude": 30.206694,
+                "longitude": 120.20295,
+                "url": "http://dpurl.cn/p/CRoTC6Vw4k",
+                "h5_url": "http://dpurl.cn/p/-ABEBBXtLZ"
+            },
+            {
+                "name": "丹比艺术蛋糕(滨盛路二店)",
+                "id": 4582683,
+                "city": "杭州",
+                "latitude": 30.286615,
+                "longitude": 120.09695,
+                "url": "http://dpurl.cn/p/FNK+Pn2WxD",
+                "h5_url": "http://dpurl.cn/p/GiR1mjfcNY"
+            },
+            {
+                "name": "丹比艺术蛋糕(滨盛路一店)",
+                "id": 4582740,
+                "city": "杭州",
+                "latitude": 30.14522,
+                "longitude": 120.27529,
+                "url": "http://dpurl.cn/p/Tjur2KJJxL",
+                "h5_url": "http://dpurl.cn/p/UP26lWoIrd"
+            },
+            {
+                "name": "丹比艺术蛋糕(文一西路店)",
+                "id": 4583940,
+                "city": "杭州",
+                "latitude": 30.26317,
+                "longitude": 120.126976,
+                "url": "http://dpurl.cn/p/8FgjDdFO-G",
+                "h5_url": "http://dpurl.cn/p/0QlKkzVfJm"
+            },
+            {
+                "name": "丹比艺术蛋糕(南环路店)",
+                "id": 5124878,
+                "city": "杭州",
+                "latitude": 30.30633,
+                "longitude": 120.13646,
+                "url": "http://dpurl.cn/p/sqj9PFCHwQ",
+                "h5_url": "http://dpurl.cn/p/yRNFpxT6ks"
+            },
+            {
+                "name": "丹比艺术蛋糕(玉古路店)",
+                "id": 5450021,
+                "city": "杭州",
+                "latitude": 30.42447,
+                "longitude": 120.30578,
+                "url": "http://dpurl.cn/p/IbowoNBjzo",
+                "h5_url": "http://dpurl.cn/p/dv4I56XqCK"
+            },
+            {
+                "name": "丹比艺术蛋糕(小河路店)",
+                "id": 5596402,
+                "city": "杭州",
+                "latitude": 30.43016,
+                "longitude": 120.30452,
+                "url": "http://dpurl.cn/p/4fBS+TpZaJ",
+                "h5_url": "http://dpurl.cn/p/7F8O0YIL0I"
+            },
+            {
+                "name": "丹比艺术蛋糕(临平东湖店)",
+                "id": 5596410,
+                "city": "杭州",
+                "latitude": 30.335812,
+                "longitude": 120.087524,
+                "url": "http://dpurl.cn/p/QjiznLwdPV",
+                "h5_url": "http://dpurl.cn/p/1X91xDONil"
+            },
+            {
+                "name": "丹比艺术蛋糕(临平星光街店)",
+                "id": 5596418,
+                "city": "杭州",
+                "latitude": 30.28446,
+                "longitude": 120.19925,
+                "url": "http://dpurl.cn/p/Y0kJ+OhZp1",
+                "h5_url": "http://dpurl.cn/p/MJjlk5UFGT"
+            },
+            {
+                "name": "丹比艺术蛋糕(良渚店)",
+                "id": 5634440,
+                "city": "杭州",
+                "latitude": 30.296185,
+                "longitude": 120.19105,
+                "url": "http://dpurl.cn/p/oz-sB2lj5l",
+                "h5_url": "http://dpurl.cn/p/RfYHRCYwtF"
+            },
+            {
+                "name": "丹比艺术蛋糕(秋涛北路店)",
+                "id": 5634445,
+                "city": "杭州",
+                "latitude": 30.26855,
+                "longitude": 120.14721,
+                "url": "http://dpurl.cn/p/MwU3e3OOtW",
+                "h5_url": "http://dpurl.cn/p/aPiKvgLgWt"
+            },
+            {
+                "name": "丹比艺术蛋糕(三里亭店)",
+                "id": 5634447,
+                "city": "杭州",
+                "latitude": 30.20078,
+                "longitude": 120.207634,
+                "url": "http://dpurl.cn/p/DUddeK-Izs",
+                "h5_url": "http://dpurl.cn/p/8Sx6UyaQzV"
+            },
+            {
+                "name": "丹比艺术蛋糕(保俶路店)",
+                "id": 5684309,
+                "city": "杭州",
+                "latitude": 30.28655,
+                "longitude": 120.10569,
+                "url": "http://dpurl.cn/p/gMjM7Cs9BU",
+                "h5_url": "http://dpurl.cn/p/uKRBYdtch5"
+            },
+            {
+                "name": "丹比艺术蛋糕(月明路店)",
+                "id": 8672509,
+                "city": "杭州",
+                "latitude": 30.271208,
+                "longitude": 120.20016,
+                "url": "http://dpurl.cn/p/yIwC0Ch92X",
+                "h5_url": "http://dpurl.cn/p/ysrR6lCT5o"
+            },
+            {
+                "name": "丹比艺术蛋糕(雅仕苑店)",
+                "id": 9069999,
+                "city": "杭州",
+                "latitude": 29.994915,
+                "longitude": 120.58081,
+                "url": "http://dpurl.cn/p/zhLQHVcyNr",
+                "h5_url": "http://dpurl.cn/p/C0xLcuhRn3"
+            },
+            {
+                "name": "丹比艺术蛋糕(近江北路店)",
+                "id": 9215406,
+                "city": "杭州",
+                "latitude": 30.235407,
+                "longitude": 120.20213,
+                "url": "http://dpurl.cn/p/kBthQgPo8K",
+                "h5_url": "http://dpurl.cn/p/r7q45D2t4M"
+            },
+            {
+                "name": "丹比艺术蛋糕",
+                "id": 9216622,
+                "city": "杭州",
+                "latitude": 30.311602,
+                "longitude": 120.26679,
+                "url": "http://dpurl.cn/p/jHoccFQSxB",
+                "h5_url": "http://dpurl.cn/p/l9oaRO5nnM"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-285356",
+        "title": "绿茶餐厅价值100元代金券1张",
+        "description": "绿茶餐厅 仅售85元 价值100元代金券1张 庆深圳海岸城店8月29日及杭州城西银泰店9月8日开业 2城3店同庆",
+        "city": "杭州",
+        "list_price": 100.0,
+        "current_price": 85.0,
+        "regions": ["拱墅区"],
+        "categories": ["代金券", "本帮江浙菜"],
+        "purchase_count": 8596,
+        "purchase_deadline": "2013-10-27",
+        "publish_date": "2013-08-15",
+        "distance": 0,
+        "image_url": "http://t3.dpfile.com/tuan/20130814/313961_130209643640000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130814/313961_130209643640000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/9r8ag6Lhej",
+        "deal_h5_url": "http://dpurl.cn/p/IYGgsJsyBw",
+        "businesses": [
+            {
+                "name": "绿茶(城西银泰店)",
+                "id": 13810433,
+                "city": "杭州",
+                "latitude": 22.51859,
+                "longitude": 113.92721,
+                "url": "http://dpurl.cn/p/k-K+T6Bdwc",
+                "h5_url": "http://dpurl.cn/p/lEoqsgmklM"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-247248",
+        "title": "嗨漾自助美食自助午餐券1张",
+        "description": "嗨漾自助美食 仅售53元 价值68元自助午餐券1张 无需预约 美味食材 尽在嗨漾 嗨在美味 漾出微笑",
+        "city": "杭州",
+        "list_price": 68.0,
+        "current_price": 53.0,
+        "regions": ["滨江区"],
+        "categories": ["自助餐"],
+        "purchase_count": 6016,
+        "purchase_deadline": "2013-10-23",
+        "publish_date": "2013-07-25",
+        "distance": 0,
+        "image_url": "http://t1.dpfile.com/tuan/20130724/291419_130191591280000000.jpg",
+        "s_image_url": "http://t1.dpfile.com/tuan/20130724/291419_130191591280000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/L3l3gdl1fu",
+        "deal_h5_url": "http://dpurl.cn/p/QmCmpZ-RTe",
+        "businesses": [
+            {
+                "name": "嗨漾自助美食",
+                "id": 10668395,
+                "city": "杭州",
+                "latitude": 30.20694,
+                "longitude": 120.20892,
+                "url": "http://dpurl.cn/p/DuGQFYjHhJ",
+                "h5_url": "http://dpurl.cn/p/wmiPaRrQyV"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-196129",
+        "title": "芭菲盛宴单人自助午餐",
+        "description": "芭菲盛宴 仅售118元 价值148元单人自助午餐 3城4店可选 节假日通用 无需预约 500余种环球自助美食无限量供应 另有不同售价两城自助午餐可选",
+        "city": "杭州",
+        "list_price": 148.0,
+        "current_price": 118.0,
+        "regions": ["江干区"],
+        "categories": ["自助餐"],
+        "purchase_count": 29639,
+        "purchase_deadline": "2013-09-29",
+        "publish_date": "2013-06-04",
+        "distance": 0,
+        "image_url": "http://t2.dpfile.com/tuan/20130603/233734_130147441310000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130603/233734_130147441310000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/v0faZ+lY3D",
+        "deal_h5_url": "http://dpurl.cn/p/DWhrLJkwc8",
+        "businesses": [
+            {
+                "name": "芭菲盛宴环球美食",
+                "id": 8066049,
+                "city": "杭州",
+                "latitude": 30.240122,
+                "longitude": 120.20514,
+                "url": "http://dpurl.cn/p/4pzXHOKEt4",
+                "h5_url": "http://dpurl.cn/p/4jArapRFgO"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-151768",
+        "title": "心源茶楼自助套餐",
+        "description": "心源茶楼 仅售58元 最高价值168元自助套餐 套餐升级8选1 8店通用 免费wifi上网 闲暇时 一杯茶、一本书 亲朋好友品茶论话佳选之地",
+        "city": "杭州",
+        "list_price": 168.0,
+        "current_price": 58.0,
+        "regions": ["上城区", "下城区", "拱墅区", "江干区", "西湖区", "滨江区"],
+        "categories": ["本帮江浙菜", "茶馆"],
+        "purchase_count": 41488,
+        "purchase_deadline": "2013-12-30",
+        "publish_date": "2013-04-11",
+        "distance": 0,
+        "image_url": "http://t1.dpfile.com/tuan/20130415/184213_130104990240000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130415/184213_130104990240000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/le4G7XjUw0",
+        "deal_h5_url": "http://dpurl.cn/p/AGYRGzFwTT",
+        "businesses": [
+            {
+                "name": "心源茶楼(凤起店)",
+                "id": 2020474,
+                "city": "杭州",
+                "latitude": 30.26391,
+                "longitude": 120.180115,
+                "url": "http://dpurl.cn/p/+eoPKQ7eR+",
+                "h5_url": "http://dpurl.cn/p/jGM9FWmE6z"
+            },
+            {
+                "name": "心源茶楼(黄龙店)",
+                "id": 3586870,
+                "city": "杭州",
+                "latitude": 30.269777,
+                "longitude": 120.13611,
+                "url": "http://dpurl.cn/p/4BmmxjLP6T",
+                "h5_url": "http://dpurl.cn/p/D2Pj3DvzZ+"
+            },
+            {
+                "name": "心源茶楼(香积寺路店)",
+                "id": 4115429,
+                "city": "杭州",
+                "latitude": 30.308395,
+                "longitude": 120.17334,
+                "url": "http://dpurl.cn/p/FxE4e0Wxx8",
+                "h5_url": "http://dpurl.cn/p/wy38DWO2Ev"
+            },
+            {
+                "name": "心源茶楼(教工路店)",
+                "id": 4188193,
+                "city": "杭州",
+                "latitude": 30.289307,
+                "longitude": 120.13537,
+                "url": "http://dpurl.cn/p/4+EETSXHcW",
+                "h5_url": "http://dpurl.cn/p/NfKGBbj7Di"
+            },
+            {
+                "name": "心源茶楼(定安店)",
+                "id": 4212226,
+                "city": "杭州",
+                "latitude": 30.244383,
+                "longitude": 120.166435,
+                "url": "http://dpurl.cn/p/9G0TmdGdti",
+                "h5_url": "http://dpurl.cn/p/LiuMa-audS"
+            },
+            {
+                "name": "心源茶楼(天城店)",
+                "id": 5249927,
+                "city": "杭州",
+                "latitude": 30.28679,
+                "longitude": 120.19836,
+                "url": "http://dpurl.cn/p/KmQrl7hWLq",
+                "h5_url": "http://dpurl.cn/p/4SuPgtPtsC"
+            },
+            {
+                "name": "心源茶楼(江南大道店)",
+                "id": 5305556,
+                "city": "杭州",
+                "latitude": 30.202215,
+                "longitude": 120.20211,
+                "url": "http://dpurl.cn/p/CCrP4Y4x3a",
+                "h5_url": "http://dpurl.cn/p/yT11OojklD"
+            },
+            {
+                "name": "心源茶楼(平海店)",
+                "id": 5311773,
+                "city": "杭州",
+                "latitude": 30.254456,
+                "longitude": 120.165886,
+                "url": "http://dpurl.cn/p/ATrfuaZQAY",
+                "h5_url": "http://dpurl.cn/p/q8Wy0xHljR"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-294097",
+        "title": "老码头代金券",
+        "description": "老码头 仅售29元 价值50元代金券 3店通用 无需预约 可累计使用 十余载真味锤炼 约上老熟人品心存已久的熟悉感",
+        "city": "杭州",
+        "list_price": 50.0,
+        "current_price": 29.0,
+        "regions": ["上城区", "西湖区"],
+        "categories": ["火锅", "代金券"],
+        "purchase_count": 3914,
+        "purchase_deadline": "2013-10-30",
+        "publish_date": "2013-08-20",
+        "distance": 0,
+        "image_url": "http://t2.dpfile.com/tuan/20130820/321776_130214824210000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130820/321776_130214824210000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/ywzgYGY2CX",
+        "deal_h5_url": "http://dpurl.cn/p/yC7uM5JS1Z",
+        "businesses": [
+            {
+                "name": "老码头(万塘路店)",
+                "id": 4701537,
+                "city": "杭州",
+                "latitude": 30.278812,
+                "longitude": 120.12492,
+                "url": "http://dpurl.cn/p/UMeSVV+kF7",
+                "h5_url": "http://dpurl.cn/p/WXRDUzGGfZ"
+            },
+            {
+                "name": "老码头(保俶路店)",
+                "id": 5339816,
+                "city": "杭州",
+                "latitude": 30.262623,
+                "longitude": 120.15211,
+                "url": "http://dpurl.cn/p/GRfmuRMIut",
+                "h5_url": "http://dpurl.cn/p/EoddgMSqhM"
+            },
+            {
+                "name": "老码头(东坡店)",
+                "id": 8013721,
+                "city": "杭州",
+                "latitude": 30.25679,
+                "longitude": 120.16288,
+                "url": "http://dpurl.cn/p/JUKZ0ZalKR",
+                "h5_url": "http://dpurl.cn/p/yvpPZ1UYLi"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-254631",
+        "title": "芭菲盛宴单人自助晚餐",
+        "description": "芭菲盛宴 仅售163元 价值188元单人自助晚餐 3城4店可选 成都 杭州店周五至周日需到店另付10元 另有不同售价两城自助晚餐可选",
+        "city": "杭州",
+        "list_price": 188.0,
+        "current_price": 163.0,
+        "regions": ["江干区"],
+        "categories": ["自助餐"],
+        "purchase_count": 14472,
+        "purchase_deadline": "2013-09-29",
+        "publish_date": "2013-07-31",
+        "distance": 0,
+        "image_url": "http://t3.dpfile.com/tuan/20130731/297889_130197371680000000.jpg",
+        "s_image_url": "http://t1.dpfile.com/tuan/20130731/297889_130197371680000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/ajSAnNcPqL",
+        "deal_h5_url": "http://dpurl.cn/p/leFMSHoPDD",
+        "businesses": [
+            {
+                "name": "芭菲盛宴环球美食",
+                "id": 8066049,
+                "city": "杭州",
+                "latitude": 30.240122,
+                "longitude": 120.20514,
+                "url": "http://dpurl.cn/p/4pzXHOKEt4",
+                "h5_url": "http://dpurl.cn/p/4jArapRFgO"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-278925",
+        "title": "灶丰年间晚市代金券",
+        "description": "灶丰年间 庆西溪天堂店7月28日正式开业 仅售38元 价值50元晚市代金券 首次4店通用 无需预约 可累计使用 不限使用张数 青花瓷大灶头 重拾旧时光",
+        "city": "杭州",
+        "list_price": 50.0,
+        "current_price": 38.0,
+        "regions": ["上城区", "拱墅区", "西湖区"],
+        "categories": ["代金券", "创意菜", "本帮江浙菜"],
+        "purchase_count": 9271,
+        "purchase_deadline": "2013-10-30",
+        "publish_date": "2013-08-13",
+        "distance": 0,
+        "image_url": "http://t2.dpfile.com/tuan/20130812/311748_130207936730000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130812/311748_130207936730000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/TmvsuRDysl",
+        "deal_h5_url": "http://dpurl.cn/p/USaattArTK",
+        "businesses": [
+            {
+                "name": "灶丰年间(定安路店)",
+                "id": 2177476,
+                "city": "杭州",
+                "latitude": 30.24676,
+                "longitude": 120.16669,
+                "url": "http://dpurl.cn/p/W4uuCrmQ-z",
+                "h5_url": "http://dpurl.cn/p/AdyBIYJc5b"
+            },
+            {
+                "name": "灶丰年间(满陇桂雨店)",
+                "id": 4109831,
+                "city": "杭州",
+                "latitude": 30.2196,
+                "longitude": 120.128746,
+                "url": "http://dpurl.cn/p/0+0lEOO3Ck",
+                "h5_url": "http://dpurl.cn/p/nBzHGzuOGS"
+            },
+            {
+                "name": "灶丰年间(运河天地店)",
+                "id": 6261107,
+                "city": "杭州",
+                "latitude": 30.325418,
+                "longitude": 120.137924,
+                "url": "http://dpurl.cn/p/6nIg5ga-++",
+                "h5_url": "http://dpurl.cn/p/zTP7SwgQ0t"
+            },
+            {
+                "name": "灶丰年间(西溪天堂店)",
+                "id": 8899518,
+                "city": "杭州",
+                "latitude": 30.267084,
+                "longitude": 120.08727,
+                "url": "http://dpurl.cn/p/kYoh8jTjMo",
+                "h5_url": "http://dpurl.cn/p/6e8SObj3gL"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-255864",
+        "title": "春暖花开自助晚餐",
+        "description": "春暖花开 仅售65元 价值69元自助晚餐 杭城超人气自助餐厅 百种菜品 自助派对 快乐聚会 饕餮盛宴",
+        "city": "杭州",
+        "list_price": 69.0,
+        "current_price": 65.0,
+        "regions": ["西湖区"],
+        "categories": ["自助餐"],
+        "purchase_count": 9591,
+        "purchase_deadline": "2013-10-30",
+        "publish_date": "2013-08-01",
+        "distance": 0,
+        "image_url": "http://t3.dpfile.com/tuan/20130730/297058_130196659640000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130730/297058_130196659640000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/MD3q4MOpbB",
+        "deal_h5_url": "http://dpurl.cn/p/J-KKPl0ay2",
+        "businesses": [
+            {
+                "name": "春暖花开",
+                "id": 5144193,
+                "city": "杭州",
+                "latitude": 30.27882,
+                "longitude": 120.12489,
+                "url": "http://dpurl.cn/p/bEAwzeDwuH",
+                "h5_url": "http://dpurl.cn/p/0OySSNguqW"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-279355",
+        "title": "新方氏餐厅现金券1张",
+        "description": "新方氏餐厅 仅售29元 价值50元代金券1张 2店通用 无需预约 可累计使用 新方氏全新升级 传统与时尚相碰撞 精致优雅与平价融合 享受臻美之餮",
+        "city": "杭州",
+        "list_price": 50.0,
+        "current_price": 29.0,
+        "regions": ["拱墅区", "江干区"],
+        "categories": ["代金券", "本帮江浙菜"],
+        "purchase_count": 5064,
+        "purchase_deadline": "2013-11-12",
+        "publish_date": "2013-08-13",
+        "distance": 0,
+        "image_url": "http://t2.dpfile.com/tuan/20130812/309982_130207949630000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130812/309982_130207949630000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/wgWBPjUp6m",
+        "deal_h5_url": "http://dpurl.cn/p/u9V6Tuo3c8",
+        "businesses": [
+            {
+                "name": "新方氏餐厅",
+                "id": 8975955,
+                "city": "杭州",
+                "latitude": 30.30211,
+                "longitude": 120.143326,
+                "url": "http://dpurl.cn/p/tjt57p79SU",
+                "h5_url": "http://dpurl.cn/p/CEq9pJsoVY"
+            },
+            {
+                "name": "新方氏餐厅",
+                "id": 9026843,
+                "city": "杭州",
+                "latitude": 30.25732,
+                "longitude": 120.19419,
+                "url": "http://dpurl.cn/p/k3+NDil6SP",
+                "h5_url": "http://dpurl.cn/p/M8ZLTcqEYu"
+            }
+        ]
+    },
+    {
+        "deal_id": "3-266127",
+        "title": "上井高级料理双人精致午市套餐",
+        "description": "上井高级料理 仅售168元 价值815元双人精致午市套餐 2店通用 庆杭城人气日料上井餐厅9周年 携手点评隆重回馈",
+        "city": "杭州",
+        "list_price": 815.0,
+        "current_price": 168.0,
+        "regions": ["上城区", "下城区"],
+        "categories": ["日韩料理"],
+        "purchase_count": 1411,
+        "purchase_deadline": "2013-10-08",
+        "publish_date": "2013-08-09",
+        "distance": 0,
+        "image_url": "http://t1.dpfile.com/tuan/20130808/304530_130204545920000000.jpg",
+        "s_image_url": "http://t3.dpfile.com/tuan/20130808/304530_130204545920000000_1.jpg",
+        "deal_url": "http://dpurl.cn/p/Tm+vZVfqLo",
+        "deal_h5_url": "http://dpurl.cn/p/MmTX6gBTNG",
+        "businesses": [
+            {
+                "name": "上井高级料理(湖滨店)",
+                "id": 537456,
+                "city": "杭州",
+                "latitude": 30.25397,
+                "longitude": 120.16252,
+                "url": "http://dpurl.cn/p/qasFfDifx+",
+                "h5_url": "http://dpurl.cn/p/+gBB8q9bKX"
+            },
+            {
+                "name": "上井高级料理(凤起店)",
+                "id": 7749577,
+                "city": "杭州",
+                "latitude": 30.26289,
+                "longitude": 120.15911,
+                "url": "http://dpurl.cn/p/-sXhfte0V0",
+                "h5_url": "http://dpurl.cn/p/UcJ1U80OSo"
+            }
+        ]
+    }
+]}

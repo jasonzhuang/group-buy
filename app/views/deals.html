@@ -1,0 +1,38 @@
+<div class="row">
+  <span>分类:</span>
+  <ul class="category">
+     <li ng-repeat="category in allCategories">
+         <label ng-click="showItem(category)">{{category.category_name}}</label>
+     </li>
+  </ul>
+</div>
+
+<div class="deal-content">
+    <ul class="index-deal-list">
+        <li ng-repeat="deal in dealData.deals" class="deal-box" deal-over>
+            <div class="deal-dt-img">
+                <a title="{{deal.description}}" href="{{deal.deal_url}}" target="_blank">
+                    <img ng-src="{{deal.image_url}}">
+                </a>
+                <div class="state-box" ng-class="{dealOver:dealOver,dealOut:dealOut}">
+                    <a href="{{deal.deal_url}}" target="_blank">待定.......</a>
+                </div>
+            </div>
+            <h2 class="deal-title">
+                <a href="{{deal.deal_url}}" target="_blank" title="{{deal.title}}">{{deal.title}}</a>
+            </h2>
+            <div class="buy">
+                <div class="price">${{deal.current_price}}</div>
+                <a href="{{deal.deal_url}}" target="_blank" class="m-rbtn btn btn-info">
+                    <span>查看详情</span>
+                </a>
+            </div>
+            <div class="deal-infor">
+                <p class="price">
+                    ${{deal.list_price}}
+                </p>
+                <div class="count">{{deal.purchase_count}}人购买</div>
+            </div>
+        </li>
+    </ul>
+</div>

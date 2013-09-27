@@ -1,0 +1,538 @@
+{ "total_count": 72, "count": 20, "coupons": [
+    {
+        "coupon_id": 200433,
+        "title": "佳丽摄影",
+        "description": "中秋佳节——全免时代",
+        "regions": ["上城区", "下城区", "近郊", "萧山区"],
+        "categories": ["个性写真", "影楼"],
+        "download_count": 0,
+        "publish_date": "2013-09-17",
+        "expiration_date": "2013-10-10",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-07-29/195579_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/kkd5cDWKYS",
+        "coupon_h5_url": "http://dpurl.cn/p/5ORVZa4N7-",
+        "businesses": [
+            {
+                "name": "佳丽摄影(解放路店)",
+                "id": 4215789,
+                "url": "http://dpurl.cn/p/LU6Ou8+eiO",
+                "h5_url": "http://dpurl.cn/p/gJIpfBYjWW"
+            },
+            {
+                "name": "佳丽摄影(萧山公主店)",
+                "id": 4523549,
+                "url": "http://dpurl.cn/p/ltVPrUfuZV",
+                "h5_url": "http://dpurl.cn/p/rOVIIE1gAT"
+            },
+            {
+                "name": "佳丽摄影(富阳公主店)",
+                "id": 4683732,
+                "url": "http://dpurl.cn/p/hAjHrS58Ct",
+                "h5_url": "http://dpurl.cn/p/vvsQTvq9dp"
+            },
+            {
+                "name": "佳丽摄影(延安路店)",
+                "id": 1615651,
+                "url": "http://dpurl.cn/p/8Dxv2YMOh2",
+                "h5_url": "http://dpurl.cn/p/HnkOTigia3"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200439,
+        "title": "断桥望湖楼音乐吧",
+        "description": "带上你久未平静的心，邂逅民谣，邂逅音乐",
+        "regions": ["西湖区"],
+        "categories": ["美食", "咖啡厅"],
+        "download_count": 6,
+        "publish_date": "2013-09-17",
+        "expiration_date": "2013-10-17",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-16/200439_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/rQCXOS2J6d",
+        "coupon_h5_url": "http://dpurl.cn/p/FuKG4khmiE",
+        "businesses": [
+            {
+                "name": "断桥望湖楼音乐吧",
+                "id": 13919659,
+                "url": "http://dpurl.cn/p/hhGrEz9vEV",
+                "h5_url": "http://dpurl.cn/p/Hg-deGCX+g"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200379,
+        "title": "金钱豹",
+        "description": "百蟹盛宴 谁与争锋",
+        "regions": ["拱墅区"],
+        "categories": ["自助餐"],
+        "download_count": 30,
+        "publish_date": "2013-09-17",
+        "expiration_date": "2013-10-17",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-05/199623_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/lZFcvOg9-p",
+        "coupon_h5_url": "http://dpurl.cn/p/wETs0XUnGp",
+        "businesses": [
+            {
+                "name": "金钱豹",
+                "id": 13791445,
+                "url": "http://dpurl.cn/p/fSFm8LcrKu",
+                "h5_url": "http://dpurl.cn/p/bQetwbVZTl"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200436,
+        "title": "西旺港式茶餐厅",
+        "description": "西旺城西银泰店欢乐启航",
+        "regions": ["拱墅区"],
+        "categories": ["茶餐厅"],
+        "download_count": 0,
+        "publish_date": "2013-09-17",
+        "expiration_date": "2013-09-30",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-08-20/197717_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/1i+GYbghfx",
+        "coupon_h5_url": "http://dpurl.cn/p/1Gc749EkDa",
+        "businesses": [
+            {
+                "name": "西旺港式茶餐厅(城西银泰店)",
+                "id": 13799628,
+                "url": "http://dpurl.cn/p/LcSwq6xVmC",
+                "h5_url": "http://dpurl.cn/p/5IquJkDiHE"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200446,
+        "title": "茜尔维亚修身连锁会所",
+        "description": "瘦身、健康、紧致！71元抢先体验！",
+        "regions": ["下城区", "江干区", "西湖区"],
+        "categories": ["美容/SPA", "瘦身纤体"],
+        "download_count": 5,
+        "publish_date": "2013-09-17",
+        "expiration_date": "2013-10-16",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2012-10-17/168435_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/QjHP9AeDpx",
+        "coupon_h5_url": "http://dpurl.cn/p/oa6Lo2RC0D",
+        "businesses": [
+            {
+                "name": "茜尔维亚修身连锁会所(新塘路店)",
+                "id": 6113872,
+                "url": "http://dpurl.cn/p/RON6vNEqsD",
+                "h5_url": "http://dpurl.cn/p/X0xYxvzE2i"
+            },
+            {
+                "name": "茜尔维亚修身连锁会所(朝晖店)",
+                "id": 4735584,
+                "url": "http://dpurl.cn/p/aSL-7m-tvC",
+                "h5_url": "http://dpurl.cn/p/5xrhR5RqqI"
+            },
+            {
+                "name": "茜尔维亚修身连锁会所(城西店)",
+                "id": 5221185,
+                "url": "http://dpurl.cn/p/y+E5W-ZtpS",
+                "h5_url": "http://dpurl.cn/p/SiWoTx7B0h"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200321,
+        "title": "汝拉小镇",
+        "description": "周一至周五午市满百抵25元",
+        "regions": ["西湖区"],
+        "categories": ["创意菜", "婚宴酒店"],
+        "download_count": 39,
+        "publish_date": "2013-09-14",
+        "expiration_date": "2013-10-30",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2012-12-24/174936_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/iFd8n8E19v",
+        "coupon_h5_url": "http://dpurl.cn/p/cIBZRCuJJO",
+        "businesses": [
+            {
+                "name": "汝拉小镇(龙井路店)",
+                "id": 2235661,
+                "url": "http://dpurl.cn/p/0L0sjJKMMq",
+                "h5_url": "http://dpurl.cn/p/o0GEdUM2JL"
+            },
+            {
+                "name": "汝拉小镇(西溪店)",
+                "id": 5290804,
+                "url": "http://dpurl.cn/p/Rse2bvd6SX",
+                "h5_url": "http://dpurl.cn/p/duQ6E39YGK"
+            },
+            {
+                "name": "汝拉小镇(西溪天堂店)",
+                "id": 8910751,
+                "url": "http://dpurl.cn/p/aH1z2k9Ngs",
+                "h5_url": "http://dpurl.cn/p/EmlJn+POQS"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200217,
+        "title": "杭州粉蝴蝶婚纱摄影",
+        "description": "预约领取百元红包",
+        "regions": ["下城区"],
+        "categories": ["影楼"],
+        "download_count": 12,
+        "publish_date": "2013-09-14",
+        "expiration_date": "2013-10-31",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2012-10-26/169156_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/0li1Q5Le5r",
+        "coupon_h5_url": "http://dpurl.cn/p/svfW-zK7-K",
+        "businesses": [
+            {
+                "name": "粉蝴蝶摄影会所",
+                "id": 3629218,
+                "url": "http://dpurl.cn/p/WuFk8r+yRt",
+                "h5_url": "http://dpurl.cn/p/BLvOqBlbU+"
+            },
+            {
+                "name": "粉蝴蝶摄影会所(凤起店)",
+                "id": 13892709,
+                "url": "http://dpurl.cn/p/xzj5qv72vn",
+                "h5_url": "http://dpurl.cn/p/hGxz3vGVEB"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200201,
+        "title": "金不换泰国餐厅",
+        "description": "9/14-15到店消费送金玉满堂甜品一份",
+        "regions": ["西湖区"],
+        "categories": ["东南亚菜"],
+        "download_count": 110,
+        "publish_date": "2013-09-13",
+        "expiration_date": "2013-09-19",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-08-30/198931_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/R6Bmc6dSK7",
+        "coupon_h5_url": "http://dpurl.cn/p/jD3pnaZ6P7",
+        "businesses": [
+            {
+                "name": "金不换泰国餐厅",
+                "id": 13767979,
+                "url": "http://dpurl.cn/p/H0d7Chs-tZ",
+                "h5_url": "http://dpurl.cn/p/NHxj+Z48kk"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200194,
+        "title": "海边餐厅",
+        "description": "开渔节活动",
+        "regions": ["滨江区"],
+        "categories": ["海鲜"],
+        "download_count": 0,
+        "publish_date": "2013-09-13",
+        "expiration_date": "2013-09-30",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-08-13/197242_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/DU2b-O9zC4",
+        "coupon_h5_url": "http://dpurl.cn/p/bLutoQiECa",
+        "businesses": [
+            {
+                "name": "海边餐厅",
+                "id": 13663615,
+                "url": "http://dpurl.cn/p/vOejBkhJpW",
+                "h5_url": "http://dpurl.cn/p/fw0mmhFoub"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200101,
+        "title": "知味观",
+        "description": "百年老店9月12日重装开业，优惠大酬宾！",
+        "regions": ["上城区"],
+        "categories": ["杭帮/江浙菜", "婚宴酒店"],
+        "download_count": 414,
+        "publish_date": "2013-09-12",
+        "expiration_date": "2013-09-18",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-11/200101_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/rVHVlPG9H8",
+        "coupon_h5_url": "http://dpurl.cn/p/HH5lpvmmHH",
+        "businesses": [
+            {
+                "name": "知味观(仁和路总店)",
+                "id": 536376,
+                "url": "http://dpurl.cn/p/6+A3PbDoT-",
+                "h5_url": "http://dpurl.cn/p/vEiu02Z8-T"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200077,
+        "title": "好乐迪壹号店",
+        "description": "100元美食代金券特价10元",
+        "regions": ["下城区"],
+        "categories": ["KTV"],
+        "download_count": 21,
+        "publish_date": "2013-09-12",
+        "expiration_date": "2013-10-30",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-08-30/198793_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/KAoshUaUyf",
+        "coupon_h5_url": "http://dpurl.cn/p/svWcDGdSBH",
+        "businesses": [
+            {
+                "name": "好乐迪壹号店(嘉德广场店)",
+                "id": 1622164,
+                "url": "http://dpurl.cn/p/XUdh7JAfGR",
+                "h5_url": "http://dpurl.cn/p/ThjVG75e+l"
+            }
+        ]
+    },
+    {
+        "coupon_id": 200016,
+        "title": "幸福烤全鱼",
+        "description": "全场58折！",
+        "regions": ["下城区"],
+        "categories": ["烧烤"],
+        "download_count": 23,
+        "publish_date": "2013-09-11",
+        "expiration_date": "2013-09-29",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-10/200016_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/6dmzRfAsx+",
+        "coupon_h5_url": "http://dpurl.cn/p/p-kfwg7hIg",
+        "businesses": [
+            {
+                "name": "幸福烤全鱼",
+                "id": 13904597,
+                "url": "http://dpurl.cn/p/1MYjuxyarz",
+                "h5_url": "http://dpurl.cn/p/spuEPyYB54"
+            }
+        ]
+    },
+    {
+        "coupon_id": 199907,
+        "title": "拉菲国际婚纱摄影",
+        "description": "爱我所爱",
+        "regions": ["下城区"],
+        "categories": ["工作室"],
+        "download_count": 43,
+        "publish_date": "2013-09-10",
+        "expiration_date": "2013-11-10",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-10/199907_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/PvU9L7mMzx",
+        "coupon_h5_url": "http://dpurl.cn/p/LpcbN3j91C",
+        "businesses": [
+            {
+                "name": "拉菲国际婚纱摄影",
+                "id": 8993732,
+                "url": "http://dpurl.cn/p/hXRLOf6bFf",
+                "h5_url": "http://dpurl.cn/p/2lzSbOA2Te"
+            }
+        ]
+    },
+    {
+        "coupon_id": 199479,
+        "title": "台北纯K西湖店",
+        "description": "4小时特价仅¥128（赠价值约¥450）",
+        "regions": ["上城区"],
+        "categories": ["KTV"],
+        "download_count": 295,
+        "publish_date": "2013-09-08",
+        "expiration_date": "2013-09-26",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-06-08/191163_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/5VXhYCaY82",
+        "coupon_h5_url": "http://dpurl.cn/p/lP0p9BrCYI",
+        "businesses": [
+            {
+                "name": "台北纯K(西湖店)",
+                "id": 6256639,
+                "url": "http://dpurl.cn/p/fciPe9RgLY",
+                "h5_url": "http://dpurl.cn/p/kzc-Qr84lp"
+            }
+        ]
+    },
+    {
+        "coupon_id": 199814,
+        "title": "碧桃咖啡",
+        "description": "全场8.5折，天凉好个秋，金秋来碧桃!",
+        "regions": ["上城区"],
+        "categories": ["美食", "咖啡厅"],
+        "download_count": 149,
+        "publish_date": "2013-09-07",
+        "expiration_date": "2013-09-30",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-07-31/196128_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/M7iA6S87mE",
+        "coupon_h5_url": "http://dpurl.cn/p/pWZXiJxC5v",
+        "businesses": [
+            {
+                "name": "碧桃咖啡",
+                "id": 13659940,
+                "url": "http://dpurl.cn/p/PdihldKrKV",
+                "h5_url": "http://dpurl.cn/p/8055jvf6Kr"
+            }
+        ]
+    },
+    {
+        "coupon_id": 199432,
+        "title": "洲际酒店集团",
+        "description": "洲际酒店集团跨2个品牌入住，即获免费1晚",
+        "regions": ["下城区", "拱墅区", "江干区", "萧山区"],
+        "categories": ["五星级酒店", "四星级酒店", "经济型酒店"],
+        "download_count": 76,
+        "publish_date": "2013-09-07",
+        "expiration_date": "2013-12-31",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-08-09/197081_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/F3eBMWIieg",
+        "coupon_h5_url": "http://dpurl.cn/p/jmV7WQMyD1",
+        "businesses": [
+            {
+                "name": "洲际酒店",
+                "id": 4513399,
+                "url": "http://dpurl.cn/p/CzmkVt0KI9",
+                "h5_url": "http://dpurl.cn/p/XgZzrNOqj8"
+            },
+            {
+                "name": "千岛湖洲际度假酒店",
+                "id": 5160730,
+                "url": "http://dpurl.cn/p/f48ai0W0xO",
+                "h5_url": "http://dpurl.cn/p/DFmDkugMAt"
+            },
+            {
+                "name": "海外海智选假日酒店",
+                "id": 2297839,
+                "url": "http://dpurl.cn/p/v4cIcotbv5",
+                "h5_url": "http://dpurl.cn/p/6T5RW56KnP"
+            },
+            {
+                "name": "国际假日酒店",
+                "id": 2124529,
+                "url": "http://dpurl.cn/p/pnJShxMrY-",
+                "h5_url": "http://dpurl.cn/p/D8Vg4q-dlv"
+            },
+            {
+                "name": "海外海皇冠假日酒店",
+                "id": 3166354,
+                "url": "http://dpurl.cn/p/jj1wPjDdvp",
+                "h5_url": "http://dpurl.cn/p/eADlIziY7d"
+            },
+            {
+                "name": "众安假日酒店",
+                "id": 2655772,
+                "url": "http://dpurl.cn/p/w8KZ2MpPKG",
+                "h5_url": "http://dpurl.cn/p/cm3SpvZyOn"
+            }
+        ]
+    },
+    {
+        "coupon_id": 199808,
+        "title": "杭州酒家",
+        "description": "开业四重奏，折扣享不停",
+        "regions": ["上城区"],
+        "categories": ["杭帮菜", "婚宴酒店"],
+        "download_count": 81,
+        "publish_date": "2013-09-07",
+        "expiration_date": "2013-09-21",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-06/199808_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/DMcJ1tTN4u",
+        "coupon_h5_url": "http://dpurl.cn/p/8Eqzhqjp2-",
+        "businesses": [
+            {
+                "name": "杭州酒家(延安路店)",
+                "id": 11549988,
+                "url": "http://dpurl.cn/p/habm4MTCGV",
+                "h5_url": "http://dpurl.cn/p/jCikoyW0-Z"
+            }
+        ]
+    },
+    {
+        "coupon_id": 199841,
+        "title": "橘火锅",
+        "description": "庆橘火锅城西银泰店盛大开张，多重豪礼大放",
+        "regions": ["上城区", "江干区", "西湖区"],
+        "categories": ["杭帮菜", "婚宴酒店", "火锅"],
+        "download_count": 143,
+        "publish_date": "2013-09-07",
+        "expiration_date": "2013-10-10",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-06/199841_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/SGD+9YOYZy",
+        "coupon_h5_url": "http://dpurl.cn/p/3rbE14iECS",
+        "businesses": [
+            {
+                "name": "橘火锅",
+                "id": 13852862,
+                "url": "http://dpurl.cn/p/LhMj8A8kmx",
+                "h5_url": "http://dpurl.cn/p/WJBWlVWDjx"
+            },
+            {
+                "name": "金橘餐厅(杭大店)",
+                "id": 536749,
+                "url": "http://dpurl.cn/p/y1YUFSicFp",
+                "h5_url": "http://dpurl.cn/p/sHXhoY1GlX"
+            },
+            {
+                "name": "金橘餐厅(西湖店)",
+                "id": 2427490,
+                "url": "http://dpurl.cn/p/WcA4S8eYAh",
+                "h5_url": "http://dpurl.cn/p/biAcBCCnXL"
+            },
+            {
+                "name": "金橘餐厅(银泰庆春店)",
+                "id": 8922604,
+                "url": "http://dpurl.cn/p/dhFrDRCkX7",
+                "h5_url": "http://dpurl.cn/p/M2DUgp1-Fj"
+            }
+        ]
+    },
+    {
+        "coupon_id": 199732,
+        "title": "雅谷花园餐厅酒吧",
+        "description": "下午茶有特惠，周四女士之夜免费畅饮",
+        "regions": ["西湖区"],
+        "categories": ["西餐"],
+        "download_count": 25,
+        "publish_date": "2013-09-06",
+        "expiration_date": "2013-09-30",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-05/199732_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/e7DmXH4+7l",
+        "coupon_h5_url": "http://dpurl.cn/p/urFh3NwXbD",
+        "businesses": [
+            {
+                "name": "雅谷花园餐厅酒吧",
+                "id": 4171717,
+                "url": "http://dpurl.cn/p/XtxFWP7rxM",
+                "h5_url": "http://dpurl.cn/p/uF+BCGssPB"
+            }
+        ]
+    },
+    {
+        "coupon_id": 199693,
+        "title": "小肥羊",
+        "description": "虫草花羊腱骨锅，新品套餐半价尝鲜",
+        "regions": ["西湖区"],
+        "categories": ["火锅"],
+        "download_count": 65,
+        "publish_date": "2013-09-06",
+        "expiration_date": "2013-10-27",
+        "distance": -1,
+        "logo_img_url": "http://p.dpfile.com/Promo/2013-09-05/199693_bl.jpg",
+        "coupon_url": "http://dpurl.cn/p/V+rmtQr7M5",
+        "coupon_h5_url": "http://dpurl.cn/p/qIhH7q-ogM",
+        "businesses": [
+            {
+                "name": "小肥羊(古墩路店)",
+                "id": 4217359,
+                "url": "http://dpurl.cn/p/Z0HXrThpvm",
+                "h5_url": "http://dpurl.cn/p/pvqwzzutgl"
+            }
+        ]
+    }
+]}
